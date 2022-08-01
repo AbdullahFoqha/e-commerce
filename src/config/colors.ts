@@ -1,0 +1,20 @@
+export default Object.freeze({
+    primary: '#2967FF',
+    secondary: '#23BD66',
+    accent: '#FF671C',
+    purple: '#9775FA',
+    aqua: '#05C2BD',
+    lightOrange: '#FFA601',
+    lightGreen: '#5DD136',
+    gray90: '#2D2D2F',
+    gray80: '#3C3C3E',
+    gray70: '#545455',
+    gray60: '#727273',
+    gray50: '#8D8D8E',
+    gray40: '#BABABA',
+    gray30: '#D0D0D0',
+    gray20: '#E6E6E7',
+    gray10: '#F6F6F6',
+    black: '#1B1B1D',
+    white: '#FFFFFF'
+})
